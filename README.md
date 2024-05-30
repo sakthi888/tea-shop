@@ -12,3 +12,13 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `npx cdk deploy`  deploy this stack to your default AWS account/region
 * `npx cdk diff`    compare deployed stack with current state
 * `npx cdk synth`   emits the synthesized CloudFormation template
+
+npm install --save aws-lambda
+
+npm install --save @types/aws-lambda
+
+npm install @aws-cdk/aws-iam
+
+npm install @aws-cdk/aws-lambda
+
+npm install --save-dev copy-node-modules
